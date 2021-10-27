@@ -1,0 +1,4 @@
+name: TeamChat
+version: 1.0-SNAPSHOT
+main: de.itsliz.teamchat.bootstrap.BungeeCordBootstrap
+author: itsLiz

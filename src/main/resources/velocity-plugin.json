@@ -1,0 +1,12 @@
+{
+  "id": "teamchat",
+  "name": "TeamChat",
+  "version": "1.0-SNAPSHOT",
+  "authors": [
+    "itsLiz"
+  ],
+  "dependencies": [
+
+  ],
+  "main": "de.itsliz.teamchat.bootstrap.VelocityBootstrap"
+}
